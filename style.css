@@ -1,0 +1,18 @@
+#timecontainer {
+  width: 800px;
+  height: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 300px;
+  background-color: green;
+  border-radius: 60px;
+}
+
+#time {
+  text-align: center;
+  font-family: Courier New, Courier, monospace;
+  font-size: 60px;
+  color: white;
+  padding-top: 100px;
+
+}
